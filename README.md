@@ -35,4 +35,24 @@
 7. cd back to root directory and run `npm run dev`
 8. open app in browser on `localhost:5000`
 
+## Summary
+
+This web application utilizes IEX Cloud API to retrieve and utilize stock information to simulate a stock trading application, using React-Bootstrap for styling and responsiveness. ReactJS was used to develop the frontend of the web application. While the backend uses Node.js with Express for RESTFUL WebAPI and Internal WebAPI calls. The PostgreSQL is being used to handle User, Account, Transaction and Holding information. React Context Hooks were used to store user, account, holding and other information to provide a smoother user experience.
+
+## Technologies/Design
+
+- HTML, CSS, JavaScript - Front End Stack
+- React - Front End Framework
+- Node.js and Express.js - Backend Stack and Internal API
+- Postgre SQL - Database
+- IEX Cloud API - RESTAPI
+- Heroku - Hosting platform for web server
+- ElephantSQL - Hosting platform for database
+- Graphs - Chart.js
+
+## Authors
+
+- Dhyaddine Blel 
+- Fares Ben Slama
+- Malek Taktak
 
