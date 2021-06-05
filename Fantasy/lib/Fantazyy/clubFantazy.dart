@@ -95,11 +95,7 @@ class _GetAllUsersScoresState extends State<GetAllUsersScores> {
       ),
     )
         : Scaffold(
-        appBar: AppBar(
-          title: Text("Users Classements Fantazy"),
-          backgroundColor: Colors.blue[300],
-          elevation: 0.0,
-        ),
+
         body: ListView(
           children: <Widget>[
 

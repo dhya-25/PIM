@@ -45,7 +45,7 @@ int _bottomIndex = 0;
           icon: Icon(Icons.book),
           ),
         BottomNavigationBarItem(
-          label: "PL",
+          label: "FR",
           icon: Icon(Icons.edit)
           ),
           BottomNavigationBarItem(

@@ -3,6 +3,7 @@ import 'package:Fantasy/Key/Key.dart';
 import 'package:Fantasy/stats/player_goals.dart';
 import 'package:Fantasy/stats/teams_json.dart';
 import 'package:Fantasy/tables%20copy/league_board.dart';
+import 'package:Fantasy/Tables/TableSceen.dart';
 import 'package:Fantasy/stats/player_assists.dart';
 import 'package:Fantasy/stats/player_red_cards.dart';
 import 'package:Fantasy/stats/player_yellow_cards.dart';
@@ -374,7 +375,7 @@ class _StatssState extends State<Statss> {
                           onPressed: () {
                             Navigator.push(
                               context,
-                              MaterialPageRoute(builder: (context) => LeagueBoard()),
+                              MaterialPageRoute(builder: (context) => TableScreen()),
                             );
                           },
                           color: Colors.grey.shade300,

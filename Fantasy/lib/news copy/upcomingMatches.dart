@@ -36,9 +36,11 @@ class upcomingMatchesState extends State<upcomingMatches> {
         child: FutureBuilder(
           future: getMatches(),
           builder: (context, snapshot) {
-            if (snapshot.data == null) {
+            if (snapshot.data.length == 0) {
               return Center(
-                child: CircularProgressIndicator(),
+                child: Container(
+                  child: Text("No Available Matches")
+                ),
               );
             } else {
               return ListView.builder(

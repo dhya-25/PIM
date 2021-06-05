@@ -4,6 +4,7 @@ import 'package:Fantasy/managers/Managers.dart';
 import 'package:Fantasy/players/Players.dart';
 import 'package:Fantasy/results/results.dart';
 import 'package:Fantasy/schedules/schedules.dart';
+import 'package:Fantasy/Tables/TableSceen.dart';
 import 'package:Fantasy/tables%20copy/league_board.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -100,7 +101,7 @@ List<String> images = [
                             Navigator.push(
                               context,
                               MaterialPageRoute(
-                                  builder: (context) => LeagueBoard()),
+                                  builder: (context) => TableScreen()),
                             );
                           },
                           color: Colors.grey.shade300,

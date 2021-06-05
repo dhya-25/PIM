@@ -47,12 +47,18 @@ int id;
   }
   getJsonData() async{
     SharedPreferences prefs = await SharedPreferences.getInstance();
-name =prefs.getString("userName");
-email =prefs.getString("userEmail");
-pass =prefs.getString("userPassword");
-print(name);
-print(email);
-print(pass);
+    setState(() {
+      name =prefs.getString("userName");
+      email =prefs.getString("userEmail");
+      pass =prefs.getString("userPassword");
+      print(name);
+      print(email);
+      print(pass);
+    });
+
+    print(name);
+    print(email);
+    print(pass);
   
     return "Success";
   }
