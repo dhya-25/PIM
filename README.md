@@ -10,19 +10,20 @@
 
 #### Login
 
-<img src="https://drive.google.com/file/d/1l43tm35jYYQOM_LHduaVB0ap-R9AjGXY/view?usp=sharing" alt="login-page" width="700" />
+<img src="https://fv2-2.failiem.lv/thumb_show.php?i=ydjav5pdw&view" alt="login-page" width="700" />
 
-#### Welcome Page
+#### Latest news
 
-<img src="https://user-images.githubusercontent.com/31068256/105555024-70df5600-5d00-11eb-994b-d3fe7f867659.png" alt="welcome-page" width="700" />
+<img src="https://fv2-2.failiem.lv/thumb_show.php?i=ydjav5pdw&view" alt="welcome-page" width="700" />
 
-#### Trade Page
+#### FR
 
-<img src="https://user-images.githubusercontent.com/31068256/105555143-ae43e380-5d00-11eb-9f88-f37ec3fe8891.png" alt="trade-page" width="700" />
+<img src="https://fv2-1.failiem.lv/thumb_show.php?i=d3j9zs3jw&view" alt="trade-page" width="700" />
 
-#### Portfolio Page
+#### Clubs Fantazy Ranking
 
-<img src="https://user-images.githubusercontent.com/31068256/105555105-98362300-5d00-11eb-9b9a-615a11faca3d.png" alt="portfolio-page" width="700" />
+<img src="![image](https://user-images.githubusercontent.com/63284587/120930440-2a096000-c6e5-11eb-8b31-6c99227dcd07.png)
+" alt="portfolio-page" width="700" />
 
 #### Beginners Page
 
