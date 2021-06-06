@@ -53,14 +53,10 @@ This web application utilizes IEX Cloud API to retrieve and utilize stock inform
 
 ## Technologies/Design
 
-- HTML, CSS, JavaScript - Front End Stack
-- React - Front End Framework
-- Node.js and Express.js - Backend Stack and Internal API
-- Postgre SQL - Database
-- IEX Cloud API - RESTAPI
-- Heroku - Hosting platform for web server
-- ElephantSQL - Hosting platform for database
-- Graphs - Chart.js
+- Flutter - Front End Mobile Cross Plateform Framework
+- Node.js and Express.js - Backend  API
+- MySQL - Database
+
 
 ## Authors
 
