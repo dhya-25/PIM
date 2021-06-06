@@ -20,14 +20,21 @@
 
 <img src="https://fv2-1.failiem.lv/thumb_show.php?i=d3j9zs3jw&view" alt="trade-page" width="700" />
 
+#### Statistics
+
+<img src="https://fv2-3.failiem.lv/thumb_show.php?i=76d3u93em&view" alt="trade-page" width="700" />
+
 #### Clubs Fantazy Ranking
 
-<img src="![image](https://user-images.githubusercontent.com/63284587/120930440-2a096000-c6e5-11eb-8b31-6c99227dcd07.png)
-" alt="portfolio-page" width="700" />
+<img src="https://fv2-3.failiem.lv/thumb_show.php?i=xee6czwbk&view" alt="portfolio-page" width="700" />
 
-#### Beginners Page
+#### Squad List
 
-<img src="https://user-images.githubusercontent.com/31068256/105557795-fb29b900-5d04-11eb-8284-72c8294f2651.png" alt="beginners-page" width="700" />
+<img src="https://fv2-1.failiem.lv/thumb_show.php?i=waw4538fd&view" alt="beginners-page" width="700" />
+
+#### Update Squad Fantazy
+
+<img src="https://fv2-2.failiem.lv/thumb_show.php?i=2h76h9gsg&view" alt="beginners-page" width="700" />
 
 ## Instructions & How to use the app
 
