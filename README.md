@@ -56,7 +56,7 @@
 
 FR Fantazy is a Sports/Entertainment mobile cross plateform application using Flutter, this applications offers many services such as checking latest soccer news , follow your favourite team in French League and check available statistics data. However FR Fantasy offers a new user experiance by giving you possibility to create your own squad and choose your players for every fixture and see your ranking with other Fantazy players! You can also see all your squad statistics for every played fixture after it ends. FR Fantasy can be used by all mobile terminals and will attract all French Football supporters by the quality services offered. Enjoy!
 
-## Technologies/Design
+## Technologies
 
 - Flutter - Front End Mobile Cross Plateform Framework
 - Node.js and Express.js - Backend  API
