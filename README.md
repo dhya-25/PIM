@@ -38,18 +38,23 @@
 
 ## Instructions & How to use the app
 
-1. cd into the app root directory in your terminal
-2. Create a local database (I used PostgresSQL) based on the queries in the db.js file
-3. Run `touch .env` in the root directory
-4. put in the relevant fields based on the sample file `.env_sample`
-5. Run `npm i` command
-6. cd into client folder and run `npm i` command
-7. cd back to root directory and run `npm run dev`
-8. open app in browser on `localhost:5000`
+1. import fantazytest.sql file to your php my admin cd into the app root directory/projects  in your terminal
+2. run command `npm install` and then run your waamp/xaamp server and run command `npm start` in projects directory
+3. go to Fantasy folder and run the flutter project in your IDE and get the dependecies `pub get` 
+4. In the Fantazy/libs/key directory there is a file called Key.dart that contains static variable called url, make sure to replace the content by your adress IP v4
+5. Run your project in Emulator or in Real Device by clicking Run button in your IDE
+6. Enjoy!
+
+## Troubleshooting
+
+1. Make sure to put the right IP in Key.dart
+2. In case node did not work delete node_modules folder and rerun `npm install` and then `npm start`
+3. 2. In case the football season is over you have to wait until next season some functionalities may not be available when the season is over
+
 
 ## Summary
 
-This web application utilizes IEX Cloud API to retrieve and utilize stock information to simulate a stock trading application, using React-Bootstrap for styling and responsiveness. ReactJS was used to develop the frontend of the web application. While the backend uses Node.js with Express for RESTFUL WebAPI and Internal WebAPI calls. The PostgreSQL is being used to handle User, Account, Transaction and Holding information. React Context Hooks were used to store user, account, holding and other information to provide a smoother user experience.
+FR Fantazy is a Sports/Entertainment mobile cross plateform application using Flutter, this applications offers many services such as checking latest soccer news , follow your favourite team in French League and check available statistics data. However FR Fantasy offers a new user experiance by giving you possibility to create your own squad and choose your players for every fixture and see your ranking with other Fantazy players! You can also see all your squad statistics for every played fixture after it ends. FR Fantasy can be used by all mobile terminals and will attract all French Football supporters by the quality services offered. Enjoy!
 
 ## Technologies/Design
 
