@@ -14,7 +14,7 @@
 
 #### Latest news
 
-<img src="https://fv2-2.failiem.lv/thumb_show.php?i=ydjav5pdw&view" alt="welcome-page" width="700" />
+<img src="https://fv2-1.failiem.lv/thumb_show.php?i=38w6ykber&view" alt="welcome-page" width="700" />
 
 #### FR
 
