@@ -6,7 +6,7 @@
 
 #### Logo
 
-<img src="" alt="logo-page" width="700" />
+<img src="https://fv2-1.failiem.lv/thumb_show.php?i=hdu237kcw&view" alt="logo-page" width="700" />
 
 #### Login
 
