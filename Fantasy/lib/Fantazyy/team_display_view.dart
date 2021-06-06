@@ -74,7 +74,7 @@ class _TeamDisplayViewState extends State<TeamDisplayView> {
     print(clubids);
 
     http.Response response = await http.get(
-        'https://v3.football.api-sports.io/fixtures?league=61&season=2020&next=1',
+        'https://v3.football.api-sports.io/fixtures?league=61&season=2020&last=1',
         headers: {'x-rapidapi-key': ApiKey.key,
           'x-rapidapi-host': 'v3.football.api-sports.io'});
     String body = response.body;
