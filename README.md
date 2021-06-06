@@ -50,7 +50,7 @@
 1. Make sure to put the right IP in Key.dart
 2. In case node did not work delete node_modules folder and rerun `npm install` and then `npm start`
 3. 2. In case the football season is over you have to wait until next season some functionalities may not be available when the season is over
-
+4. if the premium key date is over you must renew it or some functions will not work again , check it Key.dar with key value
 
 ## Summary
 
